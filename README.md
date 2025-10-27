@@ -1,3 +1,3 @@
 # smaps
 
-In an effort to make play happen.
+To make play happen.
